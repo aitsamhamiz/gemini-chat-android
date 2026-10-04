@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI",
+  "description": "Smart Multilingual AI Chatbot with Urdu, Pakistani regional languages, live web search, voice, and vision capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
